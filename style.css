@@ -1,0 +1,33 @@
+body {
+    background-repeat: no-repeat;
+    background-size: 100%;
+    font-family: 'Special Elite', cursive;
+}
+
+#header {
+   border-radius: 0; 
+   background-color: rgb(102, 228, 43);
+}
+
+#header:hover {
+    background-color: rgb(102, 228, 43);
+    cursor:default;
+}
+
+#footer {
+    margin-top: 35%;
+    background-color: rgba(112, 112, 112, 0.904);
+    border: black 1px solid;
+    color: white;
+    font-weight: bold;
+    padding: 0.3%;
+    font-size: 15px;
+}
+
+#a {
+    color: white;
+}
+
+canvas {
+    background-color: gray;
+}
